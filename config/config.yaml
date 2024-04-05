@@ -1,0 +1,2 @@
+ref_genome: 'resources/ref/S288C_reference_sequence_R64-4-1_20230830.fasta'
+rep_regions: 'resources/rep_regions/rep_regions_Scere.bed' 
