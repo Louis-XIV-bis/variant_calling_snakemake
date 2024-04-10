@@ -1,2 +1,13 @@
+restart-times: 3
+latency-wait: 60
+jobs: 10
+keep-going: True
+rerun-incomplete: True
+use-conda: True
+
 ref_genome: 'resources/ref/S288C_reference_sequence_R64-4-1_20230830.fasta'
 rep_regions: 'resources/rep_regions/rep_regions_Scere.bed' 
+
+resources:
+  mem: 68 
+  threads: 8
